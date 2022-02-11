@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiEf", "WebApiEf\WebApiEf.csproj", "{CE43BDF9-37DE-4ADE-AE3B-6901F1374883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE43BDF9-37DE-4ADE-AE3B-6901F1374883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE43BDF9-37DE-4ADE-AE3B-6901F1374883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE43BDF9-37DE-4ADE-AE3B-6901F1374883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE43BDF9-37DE-4ADE-AE3B-6901F1374883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40491626-3C19-4165-B535-FF0241472013}
+	EndGlobalSection
+EndGlobal
